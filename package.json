@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Rujuta25/Timesheet/issues"
   },
-  "homepage": "https://github.com/Rujuta25/Timesheet#readme"
+  "homepage": "https://github.com/Rujuta25/Timesheet#readme",
+  "devDependencies": {
+    "@angular/cli": "^1.4.4"
+  }
 }
